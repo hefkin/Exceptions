@@ -1,0 +1,63 @@
+﻿  Exceptions.cpp
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(116,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(61,9): warning C4244: return: преобразование "float" в "T", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(61,9): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(61,9): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(61,9): warning C4244:             T=int
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(61,9): warning C4244:         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(203): message : выполняется компиляция ссылки на экземпляр шаблон функции "T sum<int>(T *,int)"
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(203): message :         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(203): message :         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(203): message :             T=int
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(203): message :         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:             T=int
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(204): message : выполняется компиляция ссылки на экземпляр шаблон функции "T print<int>(int,T *)"
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(204): message :         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(204): message :         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(204): message :             T=int
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(204): message :         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:             T=int
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(98,9): warning C4244: return: преобразование "float" в "T", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(98,9): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(98,9): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(98,9): warning C4244:             T=int
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(98,9): warning C4244:         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(55,14): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(55,14): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(55,14): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(55,14): warning C4244:             T=double
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(55,14): warning C4244:         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(220): message : выполняется компиляция ссылки на экземпляр шаблон функции "T sum<double>(T *,int)"
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(220): message :         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(220): message :         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(220): message :             T=double
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(220): message :         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:             T=double
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(72,13): warning C4244:         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(221): message : выполняется компиляция ссылки на экземпляр шаблон функции "T print<double>(int,T *)"
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(221): message :         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(221): message :         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(221): message :             T=double
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(221): message :         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:             T=double
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(77,13): warning C4244:         ]
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(95,17): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(95,17): warning C4244:         with
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(95,17): warning C4244:         [
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(95,17): warning C4244:             T=double
+D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Exceptions\Exceptions.cpp(95,17): warning C4244:         ]
+  Exceptions.vcxproj -> D:\Моя прелесть\KOD\Лабы 2 семестр\Exceptions\Debug\Exceptions.exe
